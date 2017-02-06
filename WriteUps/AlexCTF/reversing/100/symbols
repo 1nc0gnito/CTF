@@ -1,0 +1,4 @@
+[Entrypoints]
+addr=0x00400a60 off=0x00000a60 baddr=0x00400000
+
+1 entrypoints
